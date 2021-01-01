@@ -1,10 +1,11 @@
-## Welcome To My Github =)
+## Hi, I'am Ahmad Suherman
 
-<h4 style="font-family: 'Lucida Grande';">Hi, I'am Ahmad Suherman I haven't had experience leading a software development team in three years. Call me Ahmad, I was born in Bandung. I have dreams of becoming a programmer and web development, I majored in computer science because I love the world of IT. My hobbies are designing programs, sports, watching movies and also playing games when I'm bored. I'am 17 years old, I love programming
+<h4 style="font-family: 'Lucida Grande';">I'am 17 years old, I haven't had experience leading a software development team in three years. Call me Ahmad, I was born in Bandung. I have dreams of becoming a programmer and web development, I majored in computer science because I love the world of IT. My hobbies are designing programs, sports, watching movies and also playing games when I'm bored.
 </h4>
 
- <p align="center">
-   <a target="_blank" rel="noopener noreferrer" href="https://media.tenor.com/images/af3dcca5e8ce32a3110558d43a2d8ae2/tenor.gif"><img src="https://media.tenor.com/images/af3dcca5e8ce32a3110558d43a2d8ae2/tenor.gif" width="140" data-canonical-src="https://media.tenor.com/images/af3dcca5e8ce32a3110558d43a2d8ae2/tenor.gif" style="max-width:100%;"></a>
-   <br><br>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ahmadsuherman&theme=vue-dark&show_icons=true&hide=issues">
 </p>
-<!-- <img src="https://media.tenor.com/images/da3e4ab91ed7f29a29edf868cb9953c0/tenor.gif" width="50"> -->
+
+## I Love Programing <img align="left" width="150" height="150" src="https://media.tenor.com/images/da3e4ab91ed7f29a29edf868cb9953c0/tenor.gif">
