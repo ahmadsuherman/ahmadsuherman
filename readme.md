@@ -9,3 +9,4 @@
 </p>
 
 ## I Love Programing <img align="left" width="150" height="150" src="https://media.tenor.com/images/da3e4ab91ed7f29a29edf868cb9953c0/tenor.gif">
+- please browse my exercise blog <a href="https://ahmadsuherman.github.io/">ahmadsuherman</a>
