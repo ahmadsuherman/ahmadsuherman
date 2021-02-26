@@ -1,4 +1,4 @@
-## Hi, I'am Ahmad Suherman
+## Hi, I'am Ahmad Suherman > <img src="centang.png">
 
 <h4 style="font-family: 'Lucida Grande';">I'am 17 years old, I haven't had experience leading a software development team in three years. Call me Ahmad, I was born in Bandung. I have dreams of becoming a programmer and web development, I majored in computer science because I love the world of IT. My hobbies are designing programs, sports, watching movies and also playing games when I'm bored.
 </h4>
