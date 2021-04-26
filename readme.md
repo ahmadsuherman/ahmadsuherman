@@ -1,6 +1,6 @@
 ## Hi, I'am Ahmad Suherman
 
-<h4 style="font-family: 'Lucida Grande';">I haven't had experience leading a software development team in three years. Call me Ahmad, I was born in Bandung. I have a dream to become a software engineer, I majored in Software Engineering because I love the world of IT. My hobbies are designing programs, sports, watching movies and also playing games in my spare time.
+<h4 style="font-family: 'Lucida Grande';">Call me Ahmad, I was born in Bandung. I have a dream to become a software engineer, I majored in Software Engineering because I love the world of IT. My hobbies are looking for new things, sports, watching movies and also playing games in my spare time.
 </h4>
 
 
