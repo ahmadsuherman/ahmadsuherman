@@ -1,4 +1,4 @@
-## Hi, I'am Ahmad Suherman <img width="20" height="20" src="https://web.telegram.org/z/icon-verified.a2a4fb48197a45cb301b..svg">
+## Hi, I'am Ahmad Suherman
 
 <h4 style="font-family: 'Lucida Grande';">Call me Ahmad, I was born in Bandung. I have aspirations to become a programmer, web developer and create a software house startup. My hobbies are programming, sports and watching movies.
 </h4>
