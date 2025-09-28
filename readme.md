@@ -5,4 +5,4 @@
 
 ## I Love Programing <img align="left" width="150" height="150" src="https://media.tenor.com/images/da3e4ab91ed7f29a29edf868cb9953c0/tenor.gif">
 - Explore my portfolio at <a target="_blank" href="https://ahmadsuherman.vercel.app/">Ahmad's Portfolio</a>
-- Explore the bloogs I've been to <a target="_blank" href="https://ahmadsuherman.com/">Pasundan Blogs</a>
+- Explore the bloogs I've been to <a target="_blank" href="https://ahmadsuherman.com/">Ahmad Suherman</a>
